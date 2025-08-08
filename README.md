@@ -1,7 +1,7 @@
 # Desafio Técnico – Vertical Logística
 
 Este repositório foi criado para resolver o desafio técnico proposto pela LuizaLabs.  
-O documento com os requisitos pode ser acessado [aqui](./requirements/Desafio%20t%C3%A9cnico%20-%20Vertical%20Logistica.pdf).
+O documento com os requisitos pode ser acessado [aqui]([./requirements/Desafio%20t%C3%A9cnico%20-%20Vertical%20Logistica.pdf](https://dbdiagram.io/d/desafio-tecnico-luizalabs-684b43f71dff20a534d66988)).
 
 ---
 
@@ -73,8 +73,8 @@ npm run start:dev
 [http://localhost:3000/api](http://localhost:3000/api)
 
 ---
-###  Banco de dados
-
+### Diagrama do Banco de dados
+**Esse diagrama foi feito no site dbdiagram e pode ser acessado [clicando aqui](https://dbdiagram.io/d/desafio-tecnico-luizalabs-684b43f71dff20a534d66988).**
 <img width="717" height="495" alt="{0E0EA4C4-8078-478A-AFFE-BFE6752F6E20}" src="https://github.com/user-attachments/assets/827d6739-3948-4c24-b285-518cddc58370" />
 
 ---
