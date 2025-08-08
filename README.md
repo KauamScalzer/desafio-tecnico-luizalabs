@@ -73,6 +73,11 @@ npm run start:dev
 [http://localhost:3000/api](http://localhost:3000/api)
 
 ---
+###  Banco de dados
+
+<img width="717" height="495" alt="{0E0EA4C4-8078-478A-AFFE-BFE6752F6E20}" src="https://github.com/user-attachments/assets/827d6739-3948-4c24-b285-518cddc58370" />
+
+---
 
 ## Comandos úteis
 
